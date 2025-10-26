@@ -4,21 +4,15 @@
 **MiniTerminalRPG** is a **turn-based role-playing game** fully developed in **C**, designed to run entirely in the **terminal**.  
 Create your hero, battle fierce monsters, level up, and challenge the legendary **Goblin King** after strengthening your gear in the city of **Goldor**!
 
-========================
 MINI TERMINAL RPG
-New Game
-
-Load Game
-
-Scores
-
-Exit
 ========================
-Your choice: 1
+1.New Game
 
-markdown
+2.Load Game
 
----
+3.Scores
+
+4.Exit
 
 ## 🌟 Features
 
@@ -66,38 +60,48 @@ To compile and run this project locally, you’ll need **GCC** and **Make** inst
 ### 🪜 Steps
 
 1. **Clone the repository:**
+
    git clone https://github.com/[YOUR_USERNAME]/MiniTerminalRPG.git
-Navigate to the project directory:
-cd MiniTerminalRPG
-Build the project:
-make
-This will compile all source files inside the src folder and generate an executable file named
-MiniTerminalRPG.exe (on Windows) or MiniTerminalRPG (on Linux/macOS).
+   
+2. **Navigate to the project directory:**
 
-Run the game:
-make run
-or
-./MiniTerminalRPG
-🎮 Gameplay
-New Game: Start a brand-new adventure.
+   cd MiniTerminalRPG
 
-Load Game: Continue from your saved progress.
+3. **Build the project:**
 
-Adventure Menu: Choose to battle monsters or rest in Goldor.
+   make
 
-Combat: Attack, use items, or attempt to flee on your turn.
+   This will compile all source files inside the src folder and generate an executable file named
+   MiniTerminalRPG.exe (on Windows) or MiniTerminalRPG (on Linux/macOS).
+   
+4. **Run the game:**
 
-City: Spend gold on equipment and healing items.
+   Run the MiniTerminalRPG.exe
 
-📂 Project Structure
-MiniTerminalRPG/
-│
-├── src/            # All C source files (.c)
-├── include/        # Header files (.h)
-├── data/           # Save files, scoreboards, language files
-├── obj/            # Compiled object files (.o)
-├── Makefile        # Build automation script
-└── README.md       # This file
+---
+
+## 🎮 Gameplay
+
+- New Game: Start a brand-new adventure.
+
+- Load Game: Continue from your saved progress.
+
+- Adventure Menu: Choose to battle monsters or rest in Goldor.
+
+- Combat: Attack, use items, or attempt to flee on your turn.
+
+- City: Spend gold on equipment and healing items.
+
+## 📂 Project Structure
+
+| Folder | Purpose |
+|---------|----------|
+| `src` | Source files (.c) |
+| `include` | Header files (.h) |
+| `data`  | Save files, language files, scores |
+| `obj`  | Compiled object files (.o) (after compilation) |
+| `Makefile `  | Build automation script |
+| `README.md `  | Project documentation |
 
 ---
 <sub><i>Some parts of this project were inspired or refined using development tools.</i></sub>
