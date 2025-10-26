@@ -1,0 +1,102 @@
+MINI TERMINAL RPG
+New Game
+Load Game
+High Scores
+Exit
+Your Choice
+Exiting game
+Invalid choice. Please enter a value between 1-4.
+PLAYER CREATION
+Enter your character's name (no spaces)
+ERROR: Name cannot contain spaces! Please try again.
+ERROR: Name cannot be empty! Please try again.
+Choose your class
+Warrior
+Mage
+Rogue
+Your character, %s, has been created!
+%s's Status
+Class
+Level
+HP
+Strength
+%d (%d + %d)
+Experience
+Gold
+Equipment
+Weapon
+Armor
+None
+ADVENTURE MENU
+What would you like to do?
+Go on an Adventure (Combat)
+Go to the City of Goldor
+Save Game
+Return to Main Menu (Saves Score)
+Saving your score
+Game Over!
+A %s appeared!
+Combat Menu
+Attack
+Use Item
+Flee
+Invalid choice.
+%s took %d damage!
+%s's HP: %d
+YOU CANNOT ESCAPE THE GOBLIN KING'S WRATH!
+You successfully fled!
+But you dropped %d gold in your haste.
+You tried to flee but failed!
+Invalid choice. You skipped your turn!
+The %s dealt %d damage to you!
+Your HP: %d
+Victory! You defeated the %s!
+You gained %d gold!
+An extra potion dropped from the GOBLIN KING'S TREASURE!
+You have been defeated...
+!!! WARNING: BOSS BATTLE !!!
+--- Enemy: %s ---
+INVENTORY
+Your inventory is empty.
+Enter the number of the item you want to use (0 to cancel):
+Health Potion
+Invalid choice or you don't have that item.
+Your HP is already full!
+You used a Health Potion and restored %d HP. Current HP: %d/%d
+This item cannot be used.
+%d %s was added to your inventory!
+*** LEVEL UP! ***
+New Level: %d
+Your base health and strength have increased!
+%s gained %d experience points!
+CITY OF GOLDOR
+Go to the Shop
+Return to Adventure
+You are in the city center, %s. Where do you want to go?
+You are leaving the safety of the city walls...
+SHOP
+Welcome, %s!
+Buy Weapon
+Buy Armor
+Sell Item (Health Potion)
+Leave Shop
+Weapons for Sale
+(Strength: +%d, Price: %d Gold)
+Go Back
+You are already using this weapon!
+You bought and equipped the %s!
+You don't have enough gold!
+Armors for Sale
+(HP: +%d, Price: %d Gold)
+You are already wearing this armor!
+You sold 1 Health Potion and gained %d gold.
+You have no Health Potions to sell.
+ERROR: Could not create save file!
+Game saved successfully!
+Save file not found.
+Game loaded successfully!
+HIGH SCORES
+There are no high scores yet.
+Congratulations! You made it to the high score list!
+Invalid input. Please enter a number:
+Press Enter to continue...

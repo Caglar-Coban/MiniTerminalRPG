@@ -1,0 +1,28 @@
+# --- Build outputs ---
+obj/
+*.o
+*.obj
+MiniTerminalRPG
+MiniTerminalRPG.exe
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# --- IDE / Editor configs ---
+.vscode/
+.idea/
+
+# --- OS-specific junk ---
+.DS_Store
+Thumbs.db
+
+# --- Temporary or backup files ---
+*~
+*.bak
+*.log
+*.tmp
+
+# --- Data files to keep (DO NOT IGNORE) ---
+# KEEP: data/*.lang, data/*.txt, data/*.dat

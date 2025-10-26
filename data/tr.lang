@@ -1,0 +1,102 @@
+MINI TERMINAL RPG
+Yeni Oyun
+Oyunu Yukle
+Skorlar
+Cikis
+Seciminiz
+Oyundan cikiliyor
+Gecersiz secim. Lutfen 1-4 arasinda bir deger girin.
+KARAKTER OLUSTURMA
+Karakterinizin adini girin (bosluk kullanamazsiniz)
+HATA: Isim bosluk iceremez! Lutfen tekrar deneyin.
+HATA: Isim bos birakilamaz! Lutfen tekrar deneyin.
+Sinifinizi secin
+Savasci
+Buyucu
+Haydut
+%s adli karakteriniz olusturuldu!
+%s'nin Durumu
+Sinif
+Seviye
+Can
+Guc
+%d (%d + %d)
+Deneyim
+Altin
+Ekipman
+Silah
+Zirh
+Yok
+MACERA MENUSU
+Ne yapmak istersin?
+Maceraya Cik (Savas)
+Goldor Sehrine Git
+Oyunu Kaydet
+Ana Menu'ye Don (Skorun Kaydedilir)
+Skorun kaydediliyor
+Oyun Bitti!
+Bir %s belirdi!
+Savas Menusu
+Saldir
+Esya Kullan
+Kac
+Gecersiz secim.
+%s'a %d hasar verdin!
+%s'nin cani: %d
+GOBLIN KRALI'NIN OFKESINDEN KACAMAZSIN!
+Basariyla kactin!
+Ancak telasla %d altin dusurdun.
+Kacmayi denedin ama basarisiz oldun!
+Gecersiz secim. Sirani kaybettin!
+%s sana %d hasar verdi!
+Senin canin: %d
+Zafer! %s'i yendin!
+%d altin kazandin!
+GOBLIN KRALI'NIN HAZINESINDEN fazladan bir iksir dustu!
+Maglup oldun...
+!!! DIKKAT: BOSS SAVASI !!!
+--- Dusman: %s ---
+ENVANTER
+Envanterin bos.
+Kullanmak istedigin esyanin numarasini gir (Cikmak icin 0):
+Can Iksiri
+Gecersiz secim veya esya mevcut degil.
+Canin zaten dolu!
+Can Iksiri kullandin ve %d can yeniledin. Mevcut canin: %d/%d
+Bu esya kullanilamaz.
+%d adet %s envanterine eklendi!
+*** SEVIYE ATLADIN! ***
+Yeni Seviye: %d
+Temel can ve guc degerlerin artti!
+%s, %d deneyim puani kazandi!
+GOLDOR SEHRI
+Dukkana Git
+Maceraya Geri Don
+Sehir merkezindesin, %s. Nereye gitmek istersin?
+Sehrin guvenli duvarlarindan ayriliyorsun...
+DUKKAN
+Hosgeldin, %s!
+Silah Satin Al
+Zirh Satin Al
+Esya Sat (Can Iksiri)
+Dukkandan Cik
+Satilik Silahlar
+(Guc: +%d, Fiyat: %d Altin)
+Geri Don
+Bu silahi zaten kullaniyorsun!
+%s satin aldin ve kusandin!
+Yeterli altinin yok!
+Satilik Zirhlar
+(Can: +%d, Fiyat: %d Altin)
+Bu zirhi zaten giyiyorsun!
+1 adet Can Iksiri sattin ve %d altin kazandin.
+Satacak Can Iksirin yok.
+HATA: Kayit dosyasi olusturulamadi!
+Oyun basariyla kaydedildi!
+Kayit dosyasi bulunamadi.
+Oyun basariyla yuklendi!
+YUKSEK SKORLAR
+Henuz kaydedilmis bir skor yok.
+Tebrikler! Skor tablosuna girdin!
+Gecersiz giris. Lutfen bir sayi girin:
+Devam etmek icin Enter'a basin...
